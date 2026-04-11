@@ -64,7 +64,7 @@
 <text x="32" y="908" xml:space="preserve"><tspan fill="#0969da" font-weight="normal">└──╼ </tspan><tspan fill="#1f2328" font-weight="normal">echo $CONTACT</tspan></text>
 <text x="32" y="928" fill="#24292f" font-weight="normal"></text>
 <text x="32" y="948" fill="#d0d7de" font-weight="normal">  ┌────────────────────────────────────────────────────┐</text>
-<text x="32" y="968" xml:space="preserve"><tspan fill="#d0d7de" font-weight="normal">  │</tspan><tspan fill="#0969da" font-weight="normal">  ❯  github   ·  github.com/[your-handle]       </tspan><tspan fill="#d0d7de" font-weight="normal">│</tspan></text>
+<text x="32" y="968" xml:space="preserve"><tspan fill="#d0d7de" font-weight="normal">  │</tspan><tspan fill="#0969da" font-weight="normal">  ❯  github   ·  github.com/Mostafa-Atlas       </tspan><tspan fill="#d0d7de" font-weight="normal">│</tspan></text>
 <text x="32" y="988" xml:space="preserve"><tspan fill="#d0d7de" font-weight="normal">  │</tspan><tspan fill="#0969da" font-weight="normal">  ❯  shell    ·  fish + hyprland + caelestia         </tspan><tspan fill="#d0d7de" font-weight="normal">│</tspan></text>
 <text x="32" y="1008" xml:space="preserve"><tspan fill="#d0d7de" font-weight="normal">  │</tspan><tspan fill="#0969da" font-weight="normal">  ❯  homelab  ·  tailscale + docker stack       </tspan><tspan fill="#d0d7de" font-weight="normal">│</tspan></text>
 <text x="32" y="1028" xml:space="preserve"><tspan fill="#d0d7de" font-weight="normal">  │</tspan><tspan fill="#0969da" font-weight="normal">  ❯  kernel   ·  arch-based · btrfs · ebpf      </tspan><tspan fill="#d0d7de" font-weight="normal">│</tspan></text>
